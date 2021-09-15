@@ -2,6 +2,8 @@
 
 ## 什么是Karmada
 
+
+
 ![karmada-resource-relation](karmada-on-kubeedge.assets/karmada-resource-relation.png)
 
 ## KubeEdge为什么需要Karmada
