@@ -2,7 +2,7 @@
 
 ## 什么是Karmada
 
-![karmada-resource-relation](https://raw.githubusercontent.com/xmwilldo/articles/main/image/karmada-resource-relation.png)
+![karmada-resource-relation](karmada-on-kubeedge.assets/karmada-resource-relation.png)
 
 ## KubeEdge为什么需要Karmada
 
